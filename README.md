@@ -50,6 +50,9 @@ In both cases, `OpenAI` is used to process the input and generate an output usin
 
 With this seamless integration of AI and language processing capabilities, AI AutoFiler Pro provides a powerful and user-friendly tool for automated _file creation_, _data sorting_, and _data finding_.
 
+# AutoFiler Pro Tutorial on YouTube :
+[![GTLibc Demo](https://img.youtube.com/vi/3y0d7O5TsHU/0.jpg)](https://www.youtube.com/watch?v=3y0d7O5TsHU)
+
 ## Author
 AI AutoFiler Pro was written by @HeavenHM on 2021-09-10.
 

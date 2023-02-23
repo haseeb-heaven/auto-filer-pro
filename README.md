@@ -1,5 +1,17 @@
 # AI AutoFiler Pro
+<p align="center">
+    <img src="https://raw.githubusercontent.com/haseeb-heaven/AIAutoFilerPro/main/resources/app_logo.png" alt="logo" width="600"/>
+</p>
+
 AI AutoFiler Pro is a tool that automates the process of creating files, sorting data, reading and viewing them, and finding data using artificial intelligence and language processing capabilities. In addition to these core features, it also includes a speech recognition tool to allow for hands-free operation.
+
+## AI AutoFiler App.
+<p align="center">
+    <img src="https://github.com/haseeb-heaven/AIAutoFilerPro/blob/main/resources/app_main.png" alt="dall-e" width="800"/>
+</p>
+<p align="center">
+    <img src="https://github.com/haseeb-heaven/AIAutoFilerPro/blob/main/resources/app_output.png" alt="stability-ai" width="800"/>
+</p>
 
 ## Python Packages
 The following Python packages are required to run AI AutoFiler Pro:

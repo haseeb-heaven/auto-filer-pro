@@ -22,10 +22,10 @@ AI AutoFiler Pro includes the following amazing features:
 
 To use AI AutoFiler Pro, you will need an OpenAI API key. Here's a quick overview of how to set up your OpenAI API key on different operating systems:
 
-- macOS or Linux with bash: Add export OPENAI_API_KEY=YOUR_API_KEY_HERE to your ~/.bash_profile.
-- Windows with Command Prompt: Create a batch file that sets the OPENAI_API_KEY environment variable, then run it.
+- macOS or Linux with bash: Add export `OPENAI_API_KEY=YOUR_API_KEY_HERE` to your ~/.bash_profile.
+- Windows with Command Prompt: Create a batch file that sets the `OPENAI_API_KEY` environment variable, then run it.
 Windows with PowerShell: Add $env:OPENAI_API_KEY = "YOUR_API_KEY_HERE" to your PowerShell profile.
-To get your OpenAI API key, sign up for an account on the (OpenAI website.)[https://platform.openai.com/account/api-keys]
+To get your OpenAI API key, sign up for an account on the [OpenAI website.](https://platform.openai.com/account/api-keys)
 
 ## Author
 AI AutoFiler Pro was written by @HeavenHM on 2021-09-10.

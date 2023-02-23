@@ -22,10 +22,21 @@ AI AutoFiler Pro includes the following amazing features:
 
 To use AI AutoFiler Pro, you will need an OpenAI API key. Here's a quick overview of how to set up your OpenAI API key on different operating systems:
 
-- macOS or Linux with bash: Add export `OPENAI_API_KEY=YOUR_API_KEY_HERE` to your ~/.bash_profile.
-- Windows with Command Prompt: Create a batch file that sets the `OPENAI_API_KEY` environment variable, then run it.
+- `macOS` or `Linux` with bash: Add export `OPENAI_API_KEY=YOUR_API_KEY_HERE` to your ~/.bash_profile.
+- `Windows` with Command Prompt: Create a batch file that sets the `OPENAI_API_KEY` environment variable, then run it.
 Windows with PowerShell: Add $env:OPENAI_API_KEY = "YOUR_API_KEY_HERE" to your PowerShell profile.
 To get your OpenAI API key, sign up for an account on the [OpenAI website.](https://platform.openai.com/account/api-keys)
+
+## Working.
+AI AutoFiler Pro is a tool that automates the process of creating files, sorting data, reading and viewing them, and finding data using artificial intelligence and language processing capabilities. The tool works by taking inputs from the user in two ways: through text input and voice input.
+
+If the user chooses text input, they can simply type their query into the input box provided in the app's graphical user interface. The app then takes the input and generates an output using OpenAI's language processing capabilities.
+
+If the user chooses voice input, they can record their voice using the app's speech recognition tool, which then converts their speech into text. The text is then passed to OpenAI to generate an output.
+
+In both cases, `OpenAI` is used to process the input and generate an output using machine learning and natural language processing capabilities. The AI model is initialized with parameters and tools using langchain, which helps to build AI models that can understand and interpret language. The output is then displayed in the output box provided in the app's GUI.
+
+With this seamless integration of AI and language processing capabilities, AI AutoFiler Pro provides a powerful and user-friendly tool for automated _file creation_, _data sorting_, and _data finding_.
 
 ## Author
 AI AutoFiler Pro was written by @HeavenHM on 2021-09-10.

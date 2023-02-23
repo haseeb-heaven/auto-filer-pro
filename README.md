@@ -19,8 +19,8 @@ The following Python packages are required to run AI AutoFiler Pro:
 
 - `langchain`: langchain is a Python package that helps to build AI models that can understand and interpret language. AI AutoFiler Pro uses langchain to initialize the AI model with parameters and to run the query using AI and language processing capabilities.
 
-- `speech_recognition`: speech_recognition is a Python package that helps to convert speech to text. AI AutoFiler Pro uses speech_recognition to record voice input from the user and convert it to text.
-To install the required Python packages, run pip install -r requirements.txt in the command line.
+- `speech_recognition`: speech_recognition is a Python package that helps to convert speech to text. AI AutoFiler Pro uses speech_recognition to record voice input from the user and convert it to text.</br>
+To install the required Python packages, run `pip install -r requirements.txt` in the command line.
 
 ## Features
 AI AutoFiler Pro includes the following amazing features:
@@ -30,21 +30,22 @@ AI AutoFiler Pro includes the following amazing features:
 - Data reading and viewing
 - Data finding using AI and language processing capabilities
 - Speech recognition tool for hands-free operation
-- OpenAI API Key Setup
+
+## OpenAI API Key Setup
 
 To use AI AutoFiler Pro, you will need an OpenAI API key. Here's a quick overview of how to set up your OpenAI API key on different operating systems:
 
 - `macOS` or `Linux` with bash: Add export `OPENAI_API_KEY=YOUR_API_KEY_HERE` to your ~/.bash_profile.
 - `Windows` with Command Prompt: Create a batch file that sets the `OPENAI_API_KEY` environment variable, then run it.
-Windows with PowerShell: Add $env:OPENAI_API_KEY = "YOUR_API_KEY_HERE" to your PowerShell profile.
+Windows with PowerShell: Add $env:OPENAI_API_KEY = "YOUR_API_KEY_HERE" to your PowerShell profile.</br>
 To get your OpenAI API key, sign up for an account on the [OpenAI website.](https://platform.openai.com/account/api-keys)
 
 ## Working.
-AI AutoFiler Pro is a tool that automates the process of creating files, sorting data, reading and viewing them, and finding data using artificial intelligence and language processing capabilities. The tool works by taking inputs from the user in two ways: through text input and voice input.
+AI AutoFiler Pro is a tool that automates the process of creating files, sorting data, reading and viewing them, and finding data using artificial intelligence and language processing capabilities. The tool works by taking inputs from the user in two ways: through `text input` and `voice input`.
 
-If the user chooses text input, they can simply type their query into the input box provided in the app's graphical user interface. The app then takes the input and generates an output using OpenAI's language processing capabilities.
+- `Text Input` : can simply type their query into the input box provided in the app's GUI. The app then takes the input and generates an output using OpenAI's language processing capabilities.
 
-If the user chooses voice input, they can record their voice using the app's speech recognition tool, which then converts their speech into text. The text is then passed to OpenAI to generate an output.
+- `Voice Input` : can record their voice using the app's speech recognition tool, which then converts their speech into text. The text is then passed to OpenAI to generate an output.
 
 In both cases, `OpenAI` is used to process the input and generate an output using machine learning and natural language processing capabilities. The AI model is initialized with parameters and tools using langchain, which helps to build AI models that can understand and interpret language. The output is then displayed in the output box provided in the app's GUI.
 

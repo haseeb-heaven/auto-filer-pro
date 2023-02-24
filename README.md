@@ -20,6 +20,10 @@ The following Python packages are required to run AI AutoFiler Pro:
 - `langchain`: langchain is a Python package that helps to build AI models that can understand and interpret language. AI AutoFiler Pro uses langchain to initialize the AI model with parameters and to run the query using AI and language processing capabilities.
 
 - `speech_recognition`: speech_recognition is a Python package that helps to convert speech to text. AI AutoFiler Pro uses speech_recognition to record voice input from the user and convert it to text.</br>
+
+- `Text to speech`: The 'gtts' (Google Text-to-Speech) is a Python library that provides a simple way to generate speech from text using Google's Text-to-Speech API. With 'gtts', you can convert any written text into spoken words in a variety of languages and voices. 
+
+
 To install the required Python packages, run `pip install -r requirements.txt` in the command line.
 
 ## Features
@@ -30,6 +34,7 @@ AI AutoFiler Pro includes the following amazing features:
 - Data reading and viewing
 - Data finding using AI and language processing capabilities
 - Speech recognition tool for hands-free operation
+- Text to Speech for Output.
 
 ## OpenAI API Key Setup
 
@@ -52,7 +57,19 @@ In both cases, `OpenAI` is used to process the input and generate an output usin
 With this seamless integration of AI and language processing capabilities, AI AutoFiler Pro provides a powerful and user-friendly tool for automated _file creation_, _data sorting_, and _data finding_.
 
 # AutoFiler Pro Tutorial on YouTube :
-[![GTLibc Demo](https://img.youtube.com/vi/3y0d7O5TsHU/0.jpg)](https://www.youtube.com/watch?v=3y0d7O5TsHU)
+[![Demo1](https://img.youtube.com/vi/3y0d7O5TsHU/0.jpg)](https://www.youtube.com/watch?v=3y0d7O5TsHU)
+
+[![Demo2](https://img.youtube.com/vi/lNDIwwVp6ak/0.jpg)](https://www.youtube.com/watch?v=lNDIwwVp6ak)
+
+## Version:
+
+### Version 1:
+- Added initial project.
+
+### Version 1.1:
+- Added Text to speech.
+- Updated UI for **TTS**.
+- Fixed **Record** voice.
 
 ## Author
 AI AutoFiler Pro was written by @HeavenHM on 2021-09-10.

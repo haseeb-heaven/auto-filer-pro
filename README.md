@@ -61,6 +61,9 @@ With this seamless integration of AI and language processing capabilities, AI Au
 
 [![Demo2](https://img.youtube.com/vi/lNDIwwVp6ak/0.jpg)](https://www.youtube.com/watch?v=lNDIwwVp6ak)
 
+## Blog post:
+Checkout the Blog post about this [Google-Blog](https://haseeb-heaven.blogspot.com/2023/02/ai-autofiler-pro-automation-for-files.html)
+
 ## Version:
 
 ### Version 1:
